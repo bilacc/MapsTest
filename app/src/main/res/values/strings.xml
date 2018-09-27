@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapsAlgebra</string>
+    <string name="google_maps">Google maps</string>
+    <string name="open_google_maps">Open Google maps</string>
+    <string name="get_gps_cordinates">Get GPS cordinates</string>
+    <string name="network">NETWORK</string>
+    <string name="result">Result</string>
+    <string name="gps">GPS</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
